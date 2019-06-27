@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="RCoreFxSamples">
+    <output-path>$PROJECT_DIR$/out/artifacts/RCoreFxSamples</output-path>
+    <root id="root">
+      <element id="archive" name="RCoreFx.jar">
+        <element id="module-output" name="RCoreFx" />
+      </element>
+    </root>
+  </artifact>
+</component>
